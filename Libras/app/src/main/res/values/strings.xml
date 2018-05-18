@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Serious LIBRAS</string>
+    <string name="textView">Tela de acesso</string>
+    <string name="textView_inici">Tela iniciante</string>
+    <string name="editText_login">Digite seu email</string>
+    <string name="editText_password">Digite sua senha</string>
+    <string name="button_entrar">Logar</string>
+    <string name="textView_esquece_senha">Esqueceu a senha</string>
+    <string name="imageView_loginfc">Imagem_login_fc</string>
+    <string name="imageButton_iniciante">Iniciante</string>
+    <string name="imageButton_intermediario">Intermediário</string>
+    <string name="imageButton_avancado">Avaçado</string>
+    <string name="button_seend_resp">Enviar Resposta</string>
+    <string name="button_back_iniciante">Voltar</string>
+    <string name="Pergunta">Essa imagem Corresponde a qual item?</string>
+    <string name="texto_indicativo">Fases</string>
+    <string name="imageButton_faseum">Fase 1</string>
+    <string name="imageButton_fasedois">Fase 2</string>
+    <string name="textView_titulo_alfabeto">Alfabeto na Língua Brasileira de Sinais</string>
+
+</resources>
